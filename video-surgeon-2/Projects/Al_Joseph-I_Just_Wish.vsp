@@ -1,0 +1,42 @@
+<video_surgeon_project version="2">
+ <media>
+  <file path="C:/Users/Utilisateur/Masterclass/video-surgeon-2/Projects/Al_Joseph-I_Just_Wish.vsp"/>
+  <duration units="318916656"/>
+  <info/>
+  <timeline audio_playable="1" loops_created="0" video_locked="0" bookmarks_created="0" video_playable="1" audio_locked="0">
+   <loops/>
+   <markers>
+    <marker frame="373" name="M1"/>
+    <marker frame="727" name="M2"/>
+    <marker frame="1114" name="M3"/>
+    <marker frame="1517" name="M4"/>
+    <marker frame="1732" name="M5"/>
+    <marker frame="1910" name="M6"/>
+    <marker frame="2179" name="M7"/>
+    <marker frame="2316" name="M8"/>
+    <marker frame="2748" name="M9"/>
+    <marker frame="3193" name="M10"/>
+    <marker frame="3480" name="M11"/>
+    <marker frame="3944" name="M12"/>
+    <marker frame="4202" name="M13"/>
+    <marker frame="4419" name="M14"/>
+    <marker frame="4819" name="M15"/>
+    <marker frame="5048" name="M16"/>
+    <marker frame="5216" name="M17"/>
+    <marker frame="5605" name="M18"/>
+    <marker frame="5978" name="M19"/>
+    <marker frame="6455" name="M20"/>
+    <marker frame="7230" name="M21"/>
+   </markers>
+  </timeline>
+  <tracks>
+   <track_fragment play_audio="1" repeat="1" play_video="1">
+    <start units="0"/>
+    <end units="318916656"/>
+    <position units="0"/>
+    <track index="1" name="C:\Users\Utilisateur\Video Surgeon 2\Cache\4a6b684d72617373546c742f534158444550637833513d3d.avi" orig_name="C:/Users/Utilisateur/Masterclass/guitare-electrique/jamtrackcentral/GuitarHeroBallads/jtc_guitarheroballads_deluxe/videos/Al_Joseph-I_Just_Wish.mp4"/>
+   </track_fragment>
+  </tracks>
+ </media>
+ <options num_zoom_steps="20" original_fps="24" aspect_ratio_x="16" aspect_ratio_y="9" export_temp_dir_path="C:\Users\Utilisateur\Video Surgeon 2\Cache\export\tmp\" num_channels="2" pitch="0" fps="25" original_video_bitrate="2941" video_width="1280" original_video_width="1280" audio_sample_rate="44100" audio_bitrate="189" volume="100" original_video_height="720" original_num_channels="1" video_bitrate="2941" max_zoom="16" tempo="100" video_height="720" original_audio_sample_rate="48000" min_zoom="1"/>
+</video_surgeon_project>

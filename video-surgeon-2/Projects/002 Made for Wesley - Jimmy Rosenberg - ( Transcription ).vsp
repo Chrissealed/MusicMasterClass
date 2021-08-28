@@ -1,0 +1,29 @@
+<video_surgeon_project version="2">
+ <media>
+  <file path="C:/Users/Utilisateur/Masterclass/video-surgeon-2/Projects/002 Made for Wesley - Jimmy Rosenberg - ( Transcription ).vsp"/>
+  <duration units="120559997"/>
+  <info/>
+  <timeline audio_playable="1" loops_created="0" video_locked="0" bookmarks_created="0" video_playable="1" audio_locked="0">
+   <loops/>
+   <markers>
+    <marker frame="601" name="M1"/>
+    <marker frame="1166" name="M2"/>
+    <marker frame="1755" name="M3"/>
+    <marker frame="2402" name="M4"/>
+    <marker frame="2142" name="M5"/>
+    <marker frame="2142" name="M6"/>
+    <marker frame="2699" name="M10"/>
+    <marker frame="1955" name="M7"/>
+   </markers>
+  </timeline>
+  <tracks>
+   <track_fragment play_audio="1" repeat="1" play_video="1">
+    <start units="0"/>
+    <end units="120559997"/>
+    <position units="0"/>
+    <track index="1" name="C:\Users\Utilisateur\Video Surgeon 2\Cache\642b427a7976762b3070492f57354d6b682f624d54413d3d.avi" orig_name="C:\Users\Utilisateur\Masterclass\4K Video Downloader\Play along with partition - YouTube\002. Made for Wesley- Jimmy Rosenberg-Trascription.mp4"/>
+   </track_fragment>
+  </tracks>
+ </media>
+ <options num_zoom_steps="20" original_fps="25.01" aspect_ratio_x="4" aspect_ratio_y="3" export_temp_dir_path="C:\Users\Utilisateur\Video Surgeon 2\Cache\export\tmp\" num_channels="2" pitch="0" fps="25" original_video_bitrate="25" video_width="640" original_video_width="640" audio_sample_rate="44100" audio_bitrate="125" volume="100" original_video_height="480" original_num_channels="1" video_bitrate="195" max_zoom="16" tempo="100" video_height="480" original_audio_sample_rate="44100" min_zoom="1"/>
+</video_surgeon_project>

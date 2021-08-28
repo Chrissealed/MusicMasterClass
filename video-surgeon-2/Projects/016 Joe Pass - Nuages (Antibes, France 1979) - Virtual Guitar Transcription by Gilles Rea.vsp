@@ -1,0 +1,59 @@
+<video_surgeon_project version="2">
+ <media>
+  <file path="C:/Users/Utilisateur/Masterclass/video-surgeon-2/Projects/016 Joe Pass - Nuages (Antibes, France 1979) - Virtual Guitar Transcription by Gilles Rea.vsp"/>
+  <duration units="431233349"/>
+  <info/>
+  <timeline audio_playable="1" loops_created="0" video_locked="0" bookmarks_created="0" video_playable="1" audio_locked="0">
+   <loops>
+    <loop tempo="100" end="3183" pitch="-0.2" count="999" volume="100" delay="-1" name="L1" start="1516"/>
+   </loops>
+   <markers>
+    <marker frame="652" name="M1"/>
+    <marker frame="944" name="M2"/>
+    <marker frame="1177" name="M3"/>
+    <marker frame="1528" name="M4"/>
+    <marker frame="1870" name="M5"/>
+    <marker frame="2126" name="M6"/>
+    <marker frame="2355" name="M7"/>
+    <marker frame="2487" name="M8"/>
+    <marker frame="3191" name="M9"/>
+    <marker frame="3436" name="M10"/>
+    <marker frame="3689" name="M11"/>
+    <marker frame="3993" name="M12"/>
+    <marker frame="4349" name="M13"/>
+    <marker frame="4672" name="M14"/>
+    <marker frame="5147" name="M15"/>
+    <marker frame="5564" name="M16"/>
+    <marker frame="5925" name="M17"/>
+    <marker frame="6121" name="M18"/>
+    <marker frame="6582" name="M19"/>
+    <marker frame="6914" name="M20"/>
+    <marker frame="7138" name="M21"/>
+    <marker frame="7482" name="M22"/>
+    <marker frame="7797" name="M23"/>
+    <marker frame="8351" name="M24"/>
+    <marker frame="8664" name="M25"/>
+    <marker frame="8903" name="M26"/>
+    <marker frame="9196" name="M27"/>
+    <marker frame="9534" name="M28"/>
+    <marker frame="9847" name="M29"/>
+    <marker frame="10414" name="M30"/>
+   </markers>
+  </timeline>
+  <tracks>
+   <track_fragment play_audio="1" repeat="1" play_video="1">
+    <start units="0"/>
+    <end units="420040000"/>
+    <position units="0"/>
+    <track index="1" name="C:\Users\Utilisateur\Video Surgeon 2\Cache\6a464b4b4c4a5735525231585257546b7a794d764d673d3d.avi" orig_name="C:\Users\Utilisateur\Masterclass\4K Video Downloader\Play along with partition - YouTube\016. Joe Pass -  Nuages  (Antibes, France 1979) - Virtual Guitar Transcription by Gilles Rea.mp4"/>
+   </track_fragment>
+   <track_fragment play_audio="1" repeat="1" play_video="1">
+    <start units="1232240000"/>
+    <end units="1243433349"/>
+    <position units="420040000"/>
+    <track index="1" name="C:\Users\Utilisateur\Video Surgeon 2\Cache\6a464b4b4c4a5735525231585257546b7a794d764d673d3d.avi" orig_name="C:\Users\Utilisateur\Masterclass\4K Video Downloader\Play along with partition - YouTube\016. Joe Pass -  Nuages  (Antibes, France 1979) - Virtual Guitar Transcription by Gilles Rea.mp4"/>
+   </track_fragment>
+  </tracks>
+ </media>
+ <options num_zoom_steps="20" original_fps="30" aspect_ratio_x="427" aspect_ratio_y="240" export_temp_dir_path="C:\Users\Utilisateur\Video Surgeon 2\Cache\export\tmp\" num_channels="2" pitch="-0.2" fps="25" original_video_bitrate="30" video_width="854" original_video_width="854" audio_sample_rate="44100" audio_bitrate="125" volume="100" original_video_height="480" original_num_channels="1" video_bitrate="211" max_zoom="16" tempo="100" video_height="480" original_audio_sample_rate="44100" min_zoom="1"/>
+</video_surgeon_project>

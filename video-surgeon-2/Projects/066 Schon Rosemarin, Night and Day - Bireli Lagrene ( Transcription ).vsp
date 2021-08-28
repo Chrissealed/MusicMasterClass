@@ -1,0 +1,42 @@
+<video_surgeon_project version="2">
+ <media>
+  <file path="C:/Users/Utilisateur/Masterclass/video-surgeon-2/Projects/066 Schon Rosemarin, Night and Day - Bireli Lagrene ( Transcription ).vsp"/>
+  <duration units="261799987"/>
+  <info/>
+  <timeline audio_playable="1" loops_created="0" video_locked="0" bookmarks_created="0" video_playable="1" audio_locked="0">
+   <loops>
+    <loop tempo="90" end="1958" pitch="0" count="999" volume="100" delay="-1" name="L1" start="950"/>
+   </loops>
+   <markers>
+    <marker frame="950" name="M1"/>
+    <marker frame="1277" name="M2"/>
+    <marker frame="1611" name="M3"/>
+    <marker frame="1929" name="M4"/>
+    <marker frame="2271" name="M5"/>
+    <marker frame="2589" name="M6"/>
+    <marker frame="2936" name="M7"/>
+    <marker frame="3273" name="M8"/>
+    <marker frame="3734" name="M9"/>
+    <marker frame="3906" name="M10"/>
+    <marker frame="4221" name="M11"/>
+    <marker frame="4532" name="M12"/>
+    <marker frame="4846" name="M13"/>
+    <marker frame="5168" name="M14"/>
+    <marker frame="5457" name="M15"/>
+    <marker frame="5777" name="M16"/>
+    <marker frame="6092" name="M17"/>
+    <marker frame="6421" name="M18"/>
+    <marker frame="216" name="M19"/>
+   </markers>
+  </timeline>
+  <tracks>
+   <track_fragment play_audio="1" repeat="1" play_video="1">
+    <start units="0"/>
+    <end units="261799987"/>
+    <position units="0"/>
+    <track index="1" name="C:\Users\Utilisateur\Video Surgeon 2\Cache\344b423777415144394f634b7946735a444777414a513d3d.avi" orig_name="C:\Users\Utilisateur\Masterclass\4K Video Downloader\Schon Rosemarin, Night and Day - Bireli Lagrene ( Transcription ).mp4"/>
+   </track_fragment>
+  </tracks>
+ </media>
+ <options num_zoom_steps="20" original_fps="10" aspect_ratio_x="427" aspect_ratio_y="240" export_temp_dir_path="C:\Users\Utilisateur\Video Surgeon 2\Cache\export\tmp\" num_channels="2" pitch="0" fps="25" original_video_bitrate="10" video_width="854" original_video_width="854" audio_sample_rate="44100" audio_bitrate="127" volume="100" original_video_height="480" original_num_channels="1" video_bitrate="216" max_zoom="16" tempo="90" video_height="480" original_audio_sample_rate="44100" min_zoom="1"/>
+</video_surgeon_project>

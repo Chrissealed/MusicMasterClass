@@ -1,0 +1,32 @@
+<video_surgeon_project version="2">
+ <media>
+  <file path="C:/Users/Utilisateur/Masterclass/video-surgeon-2/Projects/Andy-James_cm1-breakingthru.vsp"/>
+  <duration units="108959999"/>
+  <info/>
+  <timeline audio_playable="1" loops_created="0" video_locked="0" bookmarks_created="0" video_playable="1" audio_locked="0">
+   <loops>
+    <loop tempo="75" end="571" pitch="0" count="999" volume="100" delay="-1" name="L1" start="0"/>
+   </loops>
+   <markers>
+    <marker frame="569" name="M2"/>
+    <marker frame="773" name="M3"/>
+    <marker frame="987" name="M4"/>
+    <marker frame="1111" name="M5"/>
+    <marker frame="1443" name="M6"/>
+    <marker frame="1581" name="M7"/>
+    <marker frame="1936" name="M8"/>
+    <marker frame="2047" name="M9"/>
+    <marker frame="2285" name="M10"/>
+   </markers>
+  </timeline>
+  <tracks>
+   <track_fragment play_audio="1" repeat="1" play_video="1">
+    <start units="0"/>
+    <end units="108959999"/>
+    <position units="0"/>
+    <track index="1" name="C:\Users\Utilisateur\Video Surgeon 2\Cache\6c774458486649426c4e676a7444566b686a31754c773d3d.avi" orig_name="C:/Users/Utilisateur/Masterclass/guitare-electrique/jamtrackcentral/Andy-James_boxset/aj_custommetal1/video/cm1_breakingthru_vid.mp4"/>
+   </track_fragment>
+  </tracks>
+ </media>
+ <options num_zoom_steps="20" original_fps="25" aspect_ratio_x="1" aspect_ratio_y="1" export_temp_dir_path="C:\Users\Utilisateur\Video Surgeon 2\Cache\export\tmp\" num_channels="2" pitch="0" fps="25" original_video_bitrate="3821" video_width="1280" original_video_width="1280" audio_sample_rate="44100" audio_bitrate="314" volume="100" original_video_height="720" original_num_channels="1" video_bitrate="3821" max_zoom="16" tempo="100" video_height="720" original_audio_sample_rate="44100" min_zoom="1"/>
+</video_surgeon_project>

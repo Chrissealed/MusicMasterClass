@@ -1,0 +1,54 @@
+[General]
+highlight_positions="[ 5.80683, 5.80968, 1 ]"
+capo=0
+Progress_Indicator=0
+version=6.2
+formant=0
+Volume=100
+performance_transcribe=201
+
+[master]
+pitch=0
+loopbypass=0
+vr=0
+eq="[ \"Flat\", [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ], 0 ]"
+tempo=8999
+
+[pos]
+Y=42
+X=0
+
+[meta]
+year=0
+track=0
+album=
+genre=
+comment=
+title=Django Reinhardt - Nuages ( Solo Transcription )
+
+[chords]
+key=Gm
+CDVC={\"G6\":1}
+list="[ \"0:N\", \"0.0464399:G\", \"1.48608:Am7\", \"2.41488:Bbm7\", \"3.11147:G6\", \"6.08363:Bbmaj7\", \"7.33751:Am7b5\", \"10.1239:D\", \"12.0279:Gmaj7\", \"13.1889:Am7\", \"13.8159:Bbm7\", \"14.4428:G\", \"15.9289:G6\", \"17.6472:Bbmaj7\", \"19.318:Eb7|G\", \"20.526:Am7b5\", \"22.0125:D7|F#\", \"23.6844:Gmaj7\", \"24.8918:Am7\", \"25.9135:Bbm7\", \"26.6101:G\", \"29.2571:B7\", \"32.3686:Gbm7b5\", \"33.4832:Am7b5\", \"34.6442:F7|A\", \"35.3872:Gmaj7\", \"36.5946:B7\", \"38.3594:G6\", \"40.8671:Am7\", \"41.5173:G|A\", \"42.8176:Eb\", \"43.9322:A7\", \"46.8579:D\", \"52.0591:Em7b5\", \"52.8486:Bbm6\", \"54.2418:Eb7|G\", \"55.5886:Am7b5\", \"57.3068:D\", \"58.7465:G\", \"59.9539:Am7\", \"61.022:Bbaug\", \"61.7186:G\", \"64.6908:Gb6\", \"66.1769:Ab7\", \"67.2914:Dm\", \"69.0561:G7\", \"70.5887:Cmaj7\", \"72.0747:Dm\", \"73.4215:Gmaj7\", \"76.4865:Cm7\", \"77.5082:Am7b5|G\", \"80.6661:Dm\", \"82.1058:Gmaj7\", \"83.4525:Am7\", \"84.4742:Bbm7\", \"85.0779:Gmaj7\", \"85.5888:Em\", \"86.3318:D\", \"87.0748:Em\", \"87.9107:Gbm\", \"89.5826:Eb7|G\", \"90.7436:Am7\", \"92.2761:D\", \"96.0377:D7\", \"96.5021:G\", \"102.957:N\" ]"
+
+[path]
+musescore=
+audio_file_orig=C:/Users/Utilisateur/Masterclass/song-surgeon-5/project/001_ssproj. Django Reinhardt - Nuages ( Solo Transcription )-Copy000001.wav
+audio_file=C:/Users/Utilisateur/Masterclass/song-surgeon-5/project/001_ssproj. Django Reinhardt - Nuages ( Solo Transcription )-Copy000001.wav
+
+[zoom]
+level="[ 12.9, 0.010792 ]"
+current=12.9
+
+[musicpad]
+val="[ \"music_pad_text 50 50 60 12 0 Arial 12 ff000000 0\", \"music_pad_text 120 50 60 12 N Arial 12 ff000000 0\", \"music_pad_text 50 70 60 12 0.0464399 Arial 12 ff000000 0\", \"music_pad_text 120 70 60 12 G Arial 12 ff000000 0\", \"music_pad_text 50 90 60 12 1.48608 Arial 12 ff000000 0\", \"music_pad_text 120 90 60 12 Am7 Arial 12 ff000000 0\", \"music_pad_text 50 110 60 12 2.41488 Arial 12 ff000000 0\", \"music_pad_text 120 110 60 12 Bbm7 Arial 12 ff000000 0\", \"music_pad_text 50 130 60 12 3.11147 Arial 12 ff000000 0\", \"music_pad_text 120 130 60 12 G6 Arial 12 ff000000 0\", \"music_pad_text 50 150 60 12 6.08363 Arial 12 ff000000 0\", \"music_pad_text 120 150 60 12 Bbmaj7 Arial 12 ff000000 0\", \"music_pad_text 50 170 60 12 7.33751 Arial 12 ff000000 0\", \"music_pad_text 120 170 60 12 Am7b5 Arial 12 ff000000 0\", \"music_pad_text 50 190 60 12 10.1239 Arial 12 ff000000 0\", \"music_pad_text 120 190 60 12 D Arial 12 ff000000 0\", \"music_pad_text 50 210 60 12 12.0279 Arial 12 ff000000 0\", \"music_pad_text 120 210 60 12 Gmaj7 Arial 12 ff000000 0\", \"music_pad_text 50 230 60 12 13.1889 Arial 12 ff000000 0\", \"music_pad_text 120 230 60 12 Am7 Arial 12 ff000000 0\", \"music_pad_text 50 250 60 12 14.4428 Arial 12 ff000000 0\", \"music_pad_text 120 250 60 12 G Arial 12 ff000000 0\", \"music_pad_text 50 270 60 12 15.9289 Arial 12 ff000000 0\", \"music_pad_text 120 270 60 12 G6 Arial 12 ff000000 0\", \"music_pad_text 50 290 60 12 17.6472 Arial 12 ff000000 0\", \"music_pad_text 120 290 60 12 Bbmaj7 Arial 12 ff000000 0\", \"music_pad_text 50 310 60 12 19.319 Arial 12 ff000000 0\", \"music_pad_text 120 310 60 12 Eb7/G Arial 12 ff000000 0\", \"music_pad_text 50 330 60 12 20.5264 Arial 12 ff000000 0\", \"music_pad_text 120 330 60 12 Am7b5 Arial 12 ff000000 0\", \"music_pad_text 50 350 60 12 22.0125 Arial 12 ff000000 0\", \"music_pad_text 120 350 60 12 D7/F# Arial 12 ff000000 0\", \"music_pad_text 50 370 60 12 23.6844 Arial 12 ff000000 0\", \"music_pad_text 120 370 60 12 Gmaj7 Arial 12 ff000000 0\", \"music_pad_text 50 390 60 12 24.8918 Arial 12 ff000000 0\", \"music_pad_text 120 390 60 12 Am7 Arial 12 ff000000 0\", \"music_pad_text 50 410 60 12 25.9135 Arial 12 ff000000 0\", \"music_pad_text 120 410 60 12 Gm Arial 12 ff000000 0\", \"music_pad_text 50 430 60 12 26.6101 Arial 12 ff000000 0\", \"music_pad_text 120 430 60 12 G Arial 12 ff000000 0\", \"music_pad_text 50 450 60 12 29.2571 Arial 12 ff000000 0\", \"music_pad_text 120 450 60 12 D Arial 12 ff000000 0\", \"music_pad_text 50 470 60 12 31.0219 Arial 12 ff000000 0\", \"music_pad_text 120 470 60 12 B7 Arial 12 ff000000 0\", \"music_pad_text 50 490 60 12 32.3686 Arial 12 ff000000 0\", \"music_pad_text 120 490 60 12 Gbm7b5 Arial 12 ff000000 0\", \"music_pad_text 50 510 60 12 33.4832 Arial 12 ff000000 0\", \"music_pad_text 120 510 60 12 Am7b5 Arial 12 ff000000 0\", \"music_pad_text 50 530 60 12 34.6442 Arial 12 ff000000 0\", \"music_pad_text 120 530 60 12 F7|A Arial 12 ff000000 0\", \"music_pad_text 50 550 60 12 35.3872 Arial 12 ff000000 0\", \"music_pad_text 120 550 60 12 Gmaj7 Arial 12 ff000000 0\", \"music_pad_text 50 570 60 12 36.5946 Arial 12 ff000000 0\", \"music_pad_text 120 570 60 12 B7 Arial 12 ff000000 0\", \"music_pad_text 50 590 60 12 38.3594 Arial 12 ff000000 0\", \"music_pad_text 120 590 60 12 G6 Arial 12 ff000000 0\", \"music_pad_text 50 610 60 12 40.8671 Arial 12 ff000000 0\", \"music_pad_text 120 610 60 12 Am7 Arial 12 ff000000 0\", \"music_pad_text 50 630 60 12 41.5173 Arial 12 ff000000 0\", \"music_pad_text 120 630 60 12 G|A Arial 12 ff000000 0\", \"music_pad_text 50 650 60 12 42.8176 Arial 12 ff000000 0\", \"music_pad_text 120 650 60 12 Eb Arial 12 ff000000 0\", \"music_pad_text 50 670 60 12 43.9322 Arial 12 ff000000 0\", \"music_pad_text 120 670 60 12 A7 Arial 12 ff000000 0\", \"music_pad_text 50 690 60 12 46.8579 Arial 12 ff000000 0\", \"music_pad_text 120 690 60 12 D Arial 12 ff000000 0\", \"music_pad_text 50 710 60 12 52.0591 Arial 12 ff000000 0\", \"music_pad_text 120 710 60 12 Em7b5 Arial 12 ff000000 0\", \"music_pad_text 50 730 60 12 52.8486 Arial 12 ff000000 0\", \"music_pad_text 120 730 60 12 Bbm6 Arial 12 ff000000 0\", \"music_pad_text 50 750 60 12 54.2418 Arial 12 ff000000 0\", \"music_pad_text 120 750 60 12 Eb7|G Arial 12 ff000000 0\", \"music_pad_text 50 770 60 12 55.5886 Arial 12 ff000000 0\", \"music_pad_text 120 770 60 12 Am7b5 Arial 12 ff000000 0\", \"music_pad_text 50 790 60 12 57.3068 Arial 12 ff000000 0\", \"music_pad_text 120 790 60 12 D Arial 12 ff000000 0\", \"music_pad_text 50 810 60 12 58.7465 Arial 12 ff000000 0\", \"music_pad_text 120 810 60 12 G Arial 12 ff000000 0\", \"music_pad_text 50 830 60 12 59.9539 Arial 12 ff000000 0\", \"music_pad_text 120 830 60 12 Am7 Arial 12 ff000000 0\", \"music_pad_text 50 850 60 12 61.022 Arial 12 ff000000 0\", \"music_pad_text 120 850 60 12 Bbaug Arial 12 ff000000 0\", \"music_pad_text 200 50 60 12 61.7186 Arial 12 ff000000 0\", \"music_pad_text 270 50 60 12 G Arial 12 ff000000 0\", \"music_pad_text 200 70 60 12 64.6908 Arial 12 ff000000 0\", \"music_pad_text 270 70 60 12 Gb6 Arial 12 ff000000 0\", \"music_pad_text 200 90 60 12 66.1769 Arial 12 ff000000 0\", \"music_pad_text 270 90 60 12 Ab7 Arial 12 ff000000 0\", \"music_pad_text 200 110 60 12 67.2914 Arial 12 ff000000 0\", \"music_pad_text 270 110 60 12 Dm Arial 12 ff000000 0\", \"music_pad_text 200 130 60 12 69.0561 Arial 12 ff000000 0\", \"music_pad_text 270 130 60 12 G7 Arial 12 ff000000 0\", \"music_pad_text 200 150 60 12 70.5887 Arial 12 ff000000 0\", \"music_pad_text 270 150 60 12 Cmaj7 Arial 12 ff000000 0\", \"music_pad_text 200 170 60 12 72.0747 Arial 12 ff000000 0\", \"music_pad_text 270 170 60 12 Dm Arial 12 ff000000 0\", \"music_pad_text 200 190 60 12 73.4215 Arial 12 ff000000 0\", \"music_pad_text 270 190 60 12 Gmaj7 Arial 12 ff000000 0\", \"music_pad_text 200 210 60 12 76.4865 Arial 12 ff000000 0\", \"music_pad_text 270 210 60 12 Cm7 Arial 12 ff000000 0\", \"music_pad_text 200 230 60 12 77.5082 Arial 12 ff000000 0\", \"music_pad_text 270 230 60 12 Am7b5|G Arial 12 ff000000 0\", \"music_pad_text 200 250 60 12 80.6661 Arial 12 ff000000 0\", \"music_pad_text 270 250 60 12 Dm Arial 12 ff000000 0\", \"music_pad_text 200 270 60 12 82.1058 Arial 12 ff000000 0\", \"music_pad_text 270 270 60 12 Gmaj7 Arial 12 ff000000 0\", \"music_pad_text 200 290 60 12 83.4525 Arial 12 ff000000 0\", \"music_pad_text 270 290 60 12 Am7 Arial 12 ff000000 0\", \"music_pad_text 200 310 60 12 84.4742 Arial 12 ff000000 0\", \"music_pad_text 270 310 60 12 Bbm7 Arial 12 ff000000 0\", \"music_pad_text 200 330 60 12 85.0779 Arial 12 ff000000 0\", \"music_pad_text 270 330 60 12 Gmaj7 Arial 12 ff000000 0\", \"music_pad_text 200 350 60 12 85.5888 Arial 12 ff000000 0\", \"music_pad_text 270 350 60 12 Em Arial 12 ff000000 0\", \"music_pad_text 200 370 60 12 86.3318 Arial 12 ff000000 0\", \"music_pad_text 270 370 60 12 D Arial 12 ff000000 0\", \"music_pad_text 200 390 60 12 87.0748 Arial 12 ff000000 0\", \"music_pad_text 270 390 60 12 Em Arial 12 ff000000 0\", \"music_pad_text 200 410 60 12 87.9107 Arial 12 ff000000 0\", \"music_pad_text 270 410 60 12 Gbm Arial 12 ff000000 0\", \"music_pad_text 200 430 60 12 89.5826 Arial 12 ff000000 0\", \"music_pad_text 270 430 60 12 Eb7|G Arial 12 ff000000 0\", \"music_pad_text 200 450 60 12 90.7436 Arial 12 ff000000 0\", \"music_pad_text 270 450 60 12 Am7 Arial 12 ff000000 0\", \"music_pad_text 200 470 60 12 92.2761 Arial 12 ff000000 0\", \"music_pad_text 270 470 60 12 D Arial 12 ff000000 0\", \"music_pad_text 200 490 60 12 96.0377 Arial 12 ff000000 0\", \"music_pad_text 270 490 60 12 D7 Arial 12 ff000000 0\", \"music_pad_text 200 510 60 12 96.5021 Arial 12 ff000000 0\", \"music_pad_text 270 510 60 12 G Arial 12 ff000000 0\", \"music_pad_text 200 530 60 12 102.957 Arial 12 ff000000 0\", \"music_pad_text 270 530 60 12 N Arial 12 ff000000 0\" ]"
+
+[GUI]
+width=1920
+height=1042
+
+[markers]
+val="[ [ \"M0\", 15.5048, \"#0000ff\" ], [ \"M1\", 27.2095, \"#0000ff\" ], [ \"M2\", 32.8849, \"#0000ff\" ], [ \"M3\", 39.3058, \"#0000ff\" ], [ \"M4\", 50.1621, \"#0000ff\" ], [ \"M5\", 62.5405, \"#0000ff\" ], [ \"M6\", 72.3441, \"#0000ff\" ], [ \"M7\", 83.6692, \"#0000ff\" ] ]"
+
+[loops]
+val="[ [ \"L1\", [ 0.0458299, 27.245, 0, 10000, 0 ], \"Flat\", [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ], [ -1, 0, 0, 100, 100, 0, 1, 0 ] ] ]"

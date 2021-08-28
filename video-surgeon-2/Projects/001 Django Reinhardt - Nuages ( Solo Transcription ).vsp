@@ -1,0 +1,28 @@
+<video_surgeon_project version="2">
+ <media>
+  <file path="C:/Users/Utilisateur/Masterclass/video-surgeon-2/Projects/001 Django Reinhardt - Nuages ( Solo Transcription ).vsp"/>
+  <duration units="103279998"/>
+  <info/>
+  <timeline audio_playable="1" loops_created="0" video_locked="0" bookmarks_created="0" video_playable="1" audio_locked="0">
+   <loops/>
+   <markers>
+    <marker frame="392" name="M1"/>
+    <marker frame="687" name="M2"/>
+    <marker frame="983" name="M4"/>
+    <marker frame="1241" name="M5"/>
+    <marker frame="1575" name="M6"/>
+    <marker frame="1807" name="M7"/>
+    <marker frame="2107" name="M8"/>
+   </markers>
+  </timeline>
+  <tracks>
+   <track_fragment play_audio="1" repeat="1" play_video="1">
+    <start units="0"/>
+    <end units="103279998"/>
+    <position units="0"/>
+    <track index="1" name="C:\Users\Utilisateur\Video Surgeon 2\Cache\7a506c7a337769326c6465326a4742644a6a496356513d3d.avi" orig_name="C:\Users\Utilisateur\Masterclass\4K Video Downloader\Play along with partition - YouTube\001. Django Reinhardt - Nuages ( Solo Transcription ).mp4"/>
+   </track_fragment>
+  </tracks>
+ </media>
+ <options num_zoom_steps="20" original_fps="25.01" aspect_ratio_x="427" aspect_ratio_y="240" export_temp_dir_path="C:\Users\Utilisateur\Video Surgeon 2\Cache\export\tmp\" num_channels="2" pitch="0" fps="25" original_video_bitrate="25" video_width="854" original_video_width="854" audio_sample_rate="44100" audio_bitrate="125" volume="100" original_video_height="480" original_num_channels="1" video_bitrate="820" max_zoom="16" tempo="100" video_height="480" original_audio_sample_rate="44100" min_zoom="1"/>
+</video_surgeon_project>

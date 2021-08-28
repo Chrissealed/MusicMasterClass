@@ -1,0 +1,54 @@
+[General]
+formant=0
+Volume=50
+capo=0
+performance_transcribe=200
+version=6.2
+Progress_Indicator=0
+highlight_positions="[ -1, -1, 3 ]"
+
+[chords]
+list="[ \"0:N\", \"0.371519:C\", \"1.6254:Dm\", \"2.73995:Eb6\", \"3.43655:Ab|Bb\", \"5.75855:Bb7\", \"9.79882:Ebmaj7\", \"13.0961:Abmaj7\", \"16.3933:G7\", \"22.6162:Cm7\", \"27.2602:Dm\", \"28.5141:C7|E\", \"29.1643:Ab|Bb\", \"32.3686:Bb7\", \"35.573:Ebmaj7\", \"38.6844:Abmaj7\", \"41.8424:F|G\", \"45.0932:G7\", \"48.2975:Cmaj7\", \"52.152:C|G\", \"54.5669:Fm7\", \"56.6567:Cm\", \"57.9106:Bb\", \"60.6505:Ebmaj7\", \"63.8549:Abmaj7\", \"67.5236:G7\", \"69.8921:Bbmaj7\", \"70.7744:G7\", \"73.5144:Cm7\", \"78.437:D7\", \"79.5051:Eb|Bb\", \"83.824:Bb\", \"86.8891:Ebmaj7\", \"89.3504:A7\", \"90.1863:Abmaj7\", \"93.53:G7\", \"99.7994:Cm7\", \"104.722:D\", \"105.604:Eb|Bb\", \"109.412:Bb\", \"112.803:Ebmaj7\", \"115.357:A7\", \"116.146:Abmaj7\", \"119.304:G7\", \"125.899:Cmaj7\", \"129.66:G\", \"130.45:C\", \"132.168:Fm7\", \"134.49:Cm\", \"135.419:Bb6\", \"137.787:Fm7b5\", \"138.484:Eb\", \"140.527:Ebmaj7\", \"141.827:Abmaj7\", \"145.032:G7\", \"147.447:Bbmaj7\", \"148.19:G7|B\", \"150.326:Cm\", \"151.859:C\", \"154.041:Cm7\", \"157.431:Cm\", \"160.125:Fm\", \"162.865:Cm\", \"166.301:Fm7\", \"168.298:Cm\", \"172.153:Fm\", \"174.707:Cm\", \"180.419:Bb6\", \"181.162:C7\", \"183.856:Fm\", \"186.781:Cm7\", \"189.753:Fm7\", \"192.772:Cm7\", \"195.512:Fm\", \"197.695:Cm\", \"202.524:Fm\", \"205.497:N\" ]"
+CDVC=
+key=Cm
+
+[pos]
+X=0
+Y=33
+
+[meta]
+year=0
+comment=
+track=0
+title=
+genre=
+album=
+
+[GUI]
+height=1009
+width=1920
+
+[master]
+loopbypass=1
+eq="[ \"Flat\", [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ], 0 ]"
+vr=0
+pitch=0
+tempo=10000
+
+[zoom]
+current=-1
+level="[ -1, 0.172076 ]"
+
+[musicpad]
+val=[ ]
+
+[path]
+audio_file=C:/Users/Utilisateur/Masterclass/song-surgeon-5/project/Europa - Santana studio version_ssproj.wav
+audio_file_orig=C:/Users/Utilisateur/Masterclass/song-surgeon-5/project/Europa - Santana studio version_ssproj.wav
+musescore=
+
+[markers]
+val=[  ]
+
+[loops]
+val=[  ]

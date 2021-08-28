@@ -1,0 +1,34 @@
+<video_surgeon_project version="2">
+ <media>
+  <file path="C:/Users/Utilisateur/Masterclass/video-surgeon-2/Projects/003 Django Reinhardt - Les Yeux Noirs - ( Solo Transcription ).vsp"/>
+  <duration units="125500000"/>
+  <info/>
+  <timeline audio_playable="1" loops_created="0" video_locked="0" bookmarks_created="0" video_playable="1" audio_locked="0">
+   <loops/>
+   <markers>
+    <marker frame="288" name="M1"/>
+    <marker frame="621" name="M2"/>
+    <marker frame="938" name="M3"/>
+    <marker frame="1111" name="M4"/>
+    <marker frame="1247" name="M5"/>
+    <marker frame="1416" name="M7"/>
+    <marker frame="1569" name="M8"/>
+    <marker frame="1737" name="M9"/>
+    <marker frame="1874" name="M10"/>
+    <marker frame="2043" name="M11"/>
+    <marker frame="2187" name="M12"/>
+    <marker frame="2664" name="M13"/>
+    <marker frame="2978" name="M14"/>
+   </markers>
+  </timeline>
+  <tracks>
+   <track_fragment play_audio="1" repeat="1" play_video="1">
+    <start units="0"/>
+    <end units="125500000"/>
+    <position units="0"/>
+    <track index="1" name="C:\Users\Utilisateur\Video Surgeon 2\Cache\644c4a424a624f53483176674b2f39424d2b575565673d3d.avi" orig_name="C:\Users\Utilisateur\Masterclass\4K Video Downloader\Play along with partition - YouTube\003. Les Yeux Noirs - Django Reinhardt ( solo transcription ).mp4"/>
+   </track_fragment>
+  </tracks>
+ </media>
+ <options num_zoom_steps="20" original_fps="10" aspect_ratio_x="427" aspect_ratio_y="240" export_temp_dir_path="C:\Users\Utilisateur\Video Surgeon 2\Cache\export\tmp\" num_channels="2" pitch="-0.05" fps="25" original_video_bitrate="10" video_width="854" original_video_width="854" audio_sample_rate="44100" audio_bitrate="125" volume="100" original_video_height="480" original_num_channels="1" video_bitrate="212" max_zoom="16" tempo="95" video_height="480" original_audio_sample_rate="44100" min_zoom="1"/>
+</video_surgeon_project>

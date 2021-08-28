@@ -1,0 +1,33 @@
+<video_surgeon_project version="2">
+ <media>
+  <file path="C:/Users/Utilisateur/Masterclass/video-surgeon-2/Projects/081. GUTHRIE GOVAN TABS to FIVES.vsp"/>
+  <duration units="264433319"/>
+  <info/>
+  <timeline audio_playable="1" loops_created="0" video_locked="0" bookmarks_created="0" video_playable="1" audio_locked="0">
+   <loops>
+    <loop tempo="100" end="2750" pitch="0" count="999" volume="100" delay="-1" name="L1" start="731"/>
+   </loops>
+   <markers>
+    <marker frame="168" name="M1"/>
+    <marker frame="727" name="M2"/>
+    <marker frame="1349" name="M3"/>
+    <marker frame="1754" name="M4"/>
+    <marker frame="1932" name="M5"/>
+    <marker frame="2548" name="M6"/>
+    <marker frame="3771" name="M7"/>
+    <marker frame="4952" name="M8"/>
+    <marker frame="5547" name="M9"/>
+    <marker frame="6504" name="M10"/>
+   </markers>
+  </timeline>
+  <tracks>
+   <track_fragment play_audio="1" repeat="1" play_video="1">
+    <start units="0"/>
+    <end units="264433319"/>
+    <position units="0"/>
+    <track index="1" name="C:\Users\Utilisateur\Video Surgeon 2\Cache\394f6a48695578486c6647736a4146665063664663673d3d.avi" orig_name="C:\Users\Utilisateur\Masterclass\4K Video Downloader\Play along with partition - YouTube\081. GUTHRIE GOVAN TABS to FIVES.mp4"/>
+   </track_fragment>
+  </tracks>
+ </media>
+ <options num_zoom_steps="20" original_fps="30" aspect_ratio_x="299" aspect_ratio_y="180" export_temp_dir_path="C:\Users\Utilisateur\Video Surgeon 2\Cache\export\tmp\" num_channels="2" pitch="0" fps="25" original_video_bitrate="30" video_width="598" original_video_width="598" audio_sample_rate="44100" audio_bitrate="125" volume="100" original_video_height="360" original_num_channels="1" video_bitrate="269" max_zoom="16" tempo="100" video_height="360" original_audio_sample_rate="44100" min_zoom="1"/>
+</video_surgeon_project>

@@ -1,0 +1,20 @@
+<video_surgeon_project version="2">
+ <media>
+  <file path="C:/Users/Utilisateur/Masterclass/video-surgeon-2/Projects/122. Jason Becker - Serrana Arpeggios(Live Version).vsp"/>
+  <duration units="57757701"/>
+  <info/>
+  <timeline audio_playable="1" loops_created="0" video_locked="0" bookmarks_created="0" video_playable="1" audio_locked="0">
+   <loops/>
+   <markers/>
+  </timeline>
+  <tracks>
+   <track_fragment play_audio="1" repeat="1" play_video="1">
+    <start units="0"/>
+    <end units="57757701"/>
+    <position units="0"/>
+    <track index="1" name="C:\Users\Utilisateur\Video Surgeon 2\Cache\514644793074502f79633644563272762f48415736513d3d.avi" orig_name="C:/Users/Utilisateur/Masterclass/4K Video Downloader/Play along with partition - YouTube/Jasonhide/001. Jason Becker - Serrana Arpeggios(Live Version) Guitar Cover.mp4"/>
+   </track_fragment>
+  </tracks>
+ </media>
+ <options num_zoom_steps="20" original_fps="29.97" aspect_ratio_x="16" aspect_ratio_y="9" export_temp_dir_path="C:\Users\Utilisateur\Video Surgeon 2\Cache\export\tmp\" num_channels="2" pitch="0" fps="25" original_video_bitrate="437" video_width="640" original_video_width="640" audio_sample_rate="44100" audio_bitrate="95" volume="100" original_video_height="360" original_num_channels="1" video_bitrate="437" max_zoom="16" tempo="100" video_height="360" original_audio_sample_rate="44100" min_zoom="1"/>
+</video_surgeon_project>

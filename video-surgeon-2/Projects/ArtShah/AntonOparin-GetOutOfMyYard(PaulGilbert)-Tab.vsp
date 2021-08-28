@@ -1,0 +1,34 @@
+<video_surgeon_project version="2">
+ <media>
+  <file path="C:/Users/Utilisateur/Masterclass/video-surgeon-2/Projects/ArtShah/004. Anton Oparin - Get Out Of My Yard (Paul Gilbert) - Tab.vsp"/>
+  <duration units="29793334"/>
+  <info/>
+  <timeline audio_playable="1" loops_created="0" video_locked="0" bookmarks_created="0" video_playable="1" audio_locked="0">
+   <loops>
+    <loop tempo="50" end="170" pitch="0" count="999" volume="100" delay="-1" name="L1" start="0"/>
+   </loops>
+   <markers>
+    <marker frame="170" name="M1"/>
+    <marker frame="303" name="M2"/>
+    <marker frame="440" name="M3"/>
+    <marker frame="544" name="M4"/>
+    <marker frame="657" name="M5"/>
+   </markers>
+  </timeline>
+  <tracks>
+   <track_fragment play_audio="1" repeat="1" play_video="1">
+    <start units="0"/>
+    <end units="280000"/>
+    <position units="0"/>
+    <track index="1" name="C:\Users\Utilisateur\Video Surgeon 2\Cache\45767748702f524b44722b6f4c7750516d52586c71673d3d.avi" orig_name="C:\Users\Utilisateur\Masterclass\4K Video Downloader\Play along with partition - YouTube\ArtShah\004. Anton Oparin - Get Out Of My Yard (Paul Gilbert) - Tab.mp4"/>
+   </track_fragment>
+   <track_fragment play_audio="1" repeat="1" play_video="1">
+    <start units="31920000"/>
+    <end units="61433334"/>
+    <position units="280000"/>
+    <track index="1" name="C:\Users\Utilisateur\Video Surgeon 2\Cache\45767748702f524b44722b6f4c7750516d52586c71673d3d.avi" orig_name="C:\Users\Utilisateur\Masterclass\4K Video Downloader\Play along with partition - YouTube\ArtShah\004. Anton Oparin - Get Out Of My Yard (Paul Gilbert) - Tab.mp4"/>
+   </track_fragment>
+  </tracks>
+ </media>
+ <options num_zoom_steps="20" original_fps="30.02" aspect_ratio_x="16" aspect_ratio_y="9" export_temp_dir_path="C:\Users\Utilisateur\Video Surgeon 2\Cache\export\tmp\" num_channels="2" pitch="0" fps="25" original_video_bitrate="30" video_width="640" original_video_width="640" audio_sample_rate="44100" audio_bitrate="128" volume="100" original_video_height="360" original_num_channels="1" video_bitrate="392" max_zoom="16" tempo="100" video_height="360" original_audio_sample_rate="44100" min_zoom="1"/>
+</video_surgeon_project>

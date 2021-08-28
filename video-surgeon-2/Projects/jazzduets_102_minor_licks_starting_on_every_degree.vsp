@@ -1,0 +1,27 @@
+<video_surgeon_project version="2">
+ <media>
+  <file path="C:/Users/Utilisateur/Masterclass/video-surgeon-2/Projects/121_jazzduets_102_minor_licks_starting_on_every_degree.vsp"/>
+  <duration units="491424255"/>
+  <info/>
+  <timeline audio_playable="1" loops_created="0" video_locked="0" bookmarks_created="0" video_playable="1" audio_locked="0">
+   <loops>
+    <loop tempo="90.5" end="2450" pitch="0" count="999" volume="100" delay="-1" name="L1" start="1376"/>
+   </loops>
+   <markers>
+    <marker frame="1370" name="M1"/>
+    <marker frame="1700" name="M2"/>
+    <marker frame="2037" name="M3"/>
+    <marker frame="2436" name="M4"/>
+   </markers>
+  </timeline>
+  <tracks>
+   <track_fragment play_audio="1" repeat="1" play_video="1">
+    <start units="0"/>
+    <end units="491424255"/>
+    <position units="0"/>
+    <track index="1" name="C:\Users\Utilisateur\Video Surgeon 2\Cache\322f4d7a4e467667554164716a7632336d39496634673d3d.avi" orig_name="C:\Users\Utilisateur\Masterclass\guitare-electro-acoustique\jazz\jazzduets.com\102-Classic-Minor-Licks\102_minor_licks_starting_on_every_degree.mp4"/>
+   </track_fragment>
+  </tracks>
+ </media>
+ <options num_zoom_steps="20" original_fps="29.97" aspect_ratio_x="16" aspect_ratio_y="9" export_temp_dir_path="C:\Users\Utilisateur\Video Surgeon 2\Cache\export\tmp\" num_channels="2" pitch="0" fps="25" original_video_bitrate="29" video_width="1280" original_video_width="1280" audio_sample_rate="44100" audio_bitrate="127" volume="100" original_video_height="720" original_num_channels="1" video_bitrate="1138" max_zoom="16" tempo="100" video_height="720" original_audio_sample_rate="44100" min_zoom="1"/>
+</video_surgeon_project>

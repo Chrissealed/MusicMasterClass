@@ -1,0 +1,50 @@
+.tmp.drivedownload/
+4KVideo-Downloader/
+# accords
+audiotonic/
+# chansons
+demos/
+ear-training/
+# guitar_tab
+guitare-acoustique/
+guitare-electrique/
+guitare-electro-acoustique/
+# guitar-pro-7
+Master Class/
+MusicBeeLibrary.bak
+MusicBeeLibrary.lyrics
+MusicBeeLibrary.mbl
+MusicBeeLibrary.pfidx
+MusicBeeLibrarySettings.bak
+MusicBeeLibrarySettings.ini
+MusicBeeLibrarySettings_corrupted_20200511053358.ini
+NowPlaying.mbp
+# Partitions
+# Playlists
+Podcasts/
+# README.md
+# resources
+# song-surgeon-5
+# TablEdit
+# Theorie
+# Th<8a>mes
+# tuxguitar
+# tuxguitar-fork
+# ultimate-guitar-tab
+# video-surgeon-2
+.precomp/
+tmp/
+*~
+*.bak
+*.code-workspace
+*.log
+*.mp3
+*.mp4
+*.o
+*.ogg
+*.ppu
+*.swo
+*.swp
+*.vim
+*.wav
+*.zip

@@ -1,0 +1,54 @@
+[General]
+performance_transcribe=200
+Progress_Indicator=0
+version=6.2
+Volume=50
+highlight_positions="[ -1, -1, 3 ]"
+formant=0
+capo=0
+
+[path]
+audio_file_orig=C:/Users/Utilisateur/Masterclass/song-surgeon-5/project/002_ssproj. Made for Wesley- Jimmy Rosenberg-Trascription-Copy000001.wav
+musescore=
+audio_file=C:/Users/Utilisateur/Masterclass/song-surgeon-5/project/002_ssproj. Made for Wesley- Jimmy Rosenberg-Trascription-Copy000001.wav
+
+[meta]
+year=0
+album=
+comment=
+title=
+genre=
+track=0
+
+[musicpad]
+val=[ ]
+
+[pos]
+Y=50
+X=8
+
+[master]
+pitch=0
+eq="[ \"Flat\", [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ], 0 ]"
+tempo=7500
+loopbypass=1
+vr=0
+
+[chords]
+list="[ \"0:N\", \"0.0464399:Baug\", \"0.603719:Em7\", \"2.87927:Gmaj7\", \"3.85451:Cmaj7\", \"5.06195:Am7\", \"8.40562:Gmaj7\", \"11.2849:Abdim\", \"12.6781:Am7\", \"14.2106:B7\", \"15.6038:Em7\", \"18.9475:Gdim\", \"20.062:B7\", \"20.3871:Am7b5|G\", \"21.1302:Bm\", \"21.641:Em7\", \"27.5389:C\", \"30.511:Am7\", \"33.2045:Gmaj7\", \"35.1086:Abdim\", \"36.5946:Am7\", \"37.7092:Gmaj7\", \"39.5204:Em7\", \"42.864:Gdim\", \"43.8857:B7\", \"44.3037:Cm\", \"45.0467:D6\", \"45.5111:Em7\", \"46.8579:B7\", \"48.8548:D\", \"50.1551:G6\", \"54.5205:Am7\", \"55.5886:D7\", \"57.1675:Gmaj7\", \"58.9787:Abdim\", \"60.3719:Am\", \"61.9508:B7\", \"63.4834:Em7\", \"66.3626:Gb7\", \"67.8487:Bmaj7\", \"68.406:Am7b5\", \"68.9633:G6\", \"75.3255:Cmaj7\", \"77.8797:Dmaj7\", \"78.4834:Am7\", \"79.7838:D7\", \"80.8519:Gmaj7\", \"82.7559:Abdim\", \"84.3349:Am7\", \"86.0532:Cm\", \"87.0284:Em7\", \"89.8148:Gm\", \"90.2327:C7\", \"91.0687:B7\", \"93.2978:Em\", \"94.273:G\", \"98.9634:Am7\", \"103.607:D7\", \"105.047:Gmaj7\", \"106.951:E7|G#\", \"108.159:Am7\", \"109.738:B7\", \"110.481:G6\", \"114.289:Gdim\", \"115.264:B\", \"115.821:Am7b5|G\", \"116.564:Gb\", \"116.982:Em7\", \"118.143:G\", \"120.419:N\" ]"
+CDVC=
+key=Em
+
+[markers]
+val="[ [ \"M0\", 24.6893, \"#0000ff\" ], [ \"M2\", 70.2956, \"#0000ff\" ], [ \"M3\", 95.5516, \"#0000ff\" ], [ \"M9\", 46.5, \"#0000ff\" ] ]"
+
+[loops]
+val=[  ]
+
+[zoom]
+current=11.5
+level="[ 11.5, 0.00970737 ]"
+
+[GUI]
+height=773
+width=1904

@@ -1,0 +1,24 @@
+<video_surgeon_project version="2">
+ <media>
+  <file path="C:/Users/Utilisateur/Masterclass/video-surgeon-2/Projects/Soul_scales_on_Guitar.vsp"/>
+  <duration units="381040008"/>
+  <info/>
+  <timeline audio_playable="1" loops_created="0" video_locked="0" bookmarks_created="0" video_playable="1" audio_locked="0">
+   <loops/>
+   <markers>
+    <marker frame="1823" name="M1"/>
+    <marker frame="2367" name="M2"/>
+    <marker frame="2816" name="M3"/>
+   </markers>
+  </timeline>
+  <tracks>
+   <track_fragment play_audio="1" repeat="1" play_video="1">
+    <start units="0"/>
+    <end units="381040008"/>
+    <position units="0"/>
+    <track index="1" name="C:\Users\Utilisateur\Video Surgeon 2\Cache\74614a325953577775527652755155514b49553066513d3d.avi" orig_name="C:/Users/Utilisateur/Masterclass/guitare-electro-acoustique/jazz/jazzduets.com/Soul-Scales-on-Guitar/Soul_scales_on_Guitar.mp4"/>
+   </track_fragment>
+  </tracks>
+ </media>
+ <options num_zoom_steps="20" original_fps="25" aspect_ratio_x="16" aspect_ratio_y="9" export_temp_dir_path="C:\Users\Utilisateur\Video Surgeon 2\Cache\export\tmp\" num_channels="2" pitch="0" fps="25" original_video_bitrate="387" video_width="1280" original_video_width="1280" audio_sample_rate="44100" audio_bitrate="127" volume="100" original_video_height="720" original_num_channels="1" video_bitrate="387" max_zoom="16" tempo="100" video_height="720" original_audio_sample_rate="44100" min_zoom="1"/>
+</video_surgeon_project>

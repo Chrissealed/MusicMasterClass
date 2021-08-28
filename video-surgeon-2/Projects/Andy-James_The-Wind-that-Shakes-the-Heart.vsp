@@ -1,0 +1,31 @@
+<video_surgeon_project version="2">
+ <media>
+  <file path="C:/Users/Utilisateur/Masterclass/video-surgeon-2/Projects/Andy-James_The-Wind-that-Shakes-the-Heart.vsp"/>
+  <duration units="266160003"/>
+  <info/>
+  <timeline audio_playable="1" loops_created="0" video_locked="0" bookmarks_created="0" video_playable="1" audio_locked="0">
+   <loops/>
+   <markers>
+    <marker frame="806" name="M1"/>
+    <marker frame="1504" name="M2"/>
+    <marker frame="1992" name="M3"/>
+    <marker frame="2404" name="M4"/>
+    <marker frame="2811" name="M5"/>
+    <marker frame="3534" name="M6"/>
+    <marker frame="4029" name="M7"/>
+    <marker frame="4359" name="M8"/>
+    <marker frame="4900" name="M9"/>
+    <marker frame="5755" name="M10"/>
+   </markers>
+  </timeline>
+  <tracks>
+   <track_fragment play_audio="1" repeat="1" play_video="1">
+    <start units="0"/>
+    <end units="266160003"/>
+    <position units="0"/>
+    <track index="1" name="C:\Users\Utilisateur\Video Surgeon 2\Cache\3456344a5a4470505776705773524e49363164414c673d3d.avi" orig_name="C:/Users/Utilisateur/Masterclass/guitare-electrique/jamtrackcentral/GuitarHeroBallads/jtc_guitarheroballads_deluxe/videos/Andy_James-The_Wind_that_Shakes_the_Heart.mp4"/>
+   </track_fragment>
+  </tracks>
+ </media>
+ <options num_zoom_steps="20" original_fps="25" aspect_ratio_x="16" aspect_ratio_y="9" export_temp_dir_path="C:\Users\Utilisateur\Video Surgeon 2\Cache\export\tmp\" num_channels="2" pitch="0" fps="25" original_video_bitrate="2329" video_width="1280" original_video_width="1280" audio_sample_rate="44100" audio_bitrate="317" volume="100" original_video_height="720" original_num_channels="1" video_bitrate="2329" max_zoom="16" tempo="100" video_height="720" original_audio_sample_rate="48000" min_zoom="1"/>
+</video_surgeon_project>

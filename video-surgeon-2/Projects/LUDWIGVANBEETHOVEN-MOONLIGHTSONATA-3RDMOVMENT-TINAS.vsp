@@ -1,0 +1,42 @@
+<video_surgeon_project version="2">
+ <media>
+  <file path="C:/Users/Utilisateur/Masterclass/video-surgeon-2/Projects/117_LUDWIG VAN BEETHOVEN - MOONLIGHT SONATA - 3RD MOVMENT - TINA S.vsp"/>
+  <duration units="421166656"/>
+  <info/>
+  <timeline audio_playable="1" loops_created="0" video_locked="0" bookmarks_created="0" video_playable="1" audio_locked="0">
+   <loops/>
+   <markers>
+    <marker frame="1070" name="M1"/>
+    <marker frame="1616" name="M2"/>
+    <marker frame="1805" name="M3"/>
+    <marker frame="2031" name="M4"/>
+    <marker frame="2429" name="M5"/>
+    <marker frame="2782" name="M6"/>
+    <marker frame="3354" name="M7"/>
+    <marker frame="3545" name="M8"/>
+    <marker frame="3754" name="M9"/>
+    <marker frame="4506" name="M10"/>
+    <marker frame="5129" name="M11"/>
+    <marker frame="5274" name="M12"/>
+    <marker frame="5473" name="M13"/>
+    <marker frame="6038" name="M14"/>
+    <marker frame="6572" name="M15"/>
+    <marker frame="7060" name="M16"/>
+    <marker frame="7811" name="M17"/>
+    <marker frame="8577" name="M18"/>
+    <marker frame="8853" name="M19"/>
+    <marker frame="9551" name="M20"/>
+    <marker frame="9899" name="M21"/>
+   </markers>
+  </timeline>
+  <tracks>
+   <track_fragment play_audio="1" repeat="1" play_video="1">
+    <start units="0"/>
+    <end units="421166656"/>
+    <position units="0"/>
+    <track index="1" name="C:\Users\Utilisateur\Video Surgeon 2\Cache\743477525676476945672f69472b64426274743945513d3d.avi" orig_name="C:\Users\Utilisateur\Masterclass\4K Video Downloader\Play along with partition - YouTube\117_LUDWIG VAN BEETHOVEN - MOONLIGHT SONATA - 3RD MOVEMENT - TINA S  - Animated Tab - Guitar Tutorial.mp4"/>
+   </track_fragment>
+  </tracks>
+ </media>
+ <options num_zoom_steps="20" original_fps="30" aspect_ratio_x="427" aspect_ratio_y="240" export_temp_dir_path="C:\Users\Utilisateur\Video Surgeon 2\Cache\export\tmp\" num_channels="2" pitch="0" fps="25" original_video_bitrate="30" video_width="854" original_video_width="854" audio_sample_rate="44100" audio_bitrate="125" volume="100" original_video_height="480" original_num_channels="1" video_bitrate="645" max_zoom="16" tempo="100" video_height="480" original_audio_sample_rate="44100" min_zoom="1"/>
+</video_surgeon_project>
