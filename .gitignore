@@ -38,6 +38,7 @@ tmp/
 *.bak
 *.code-workspace
 *.log
+*.m3u
 *.mp3
 *.mp4
 *.o
