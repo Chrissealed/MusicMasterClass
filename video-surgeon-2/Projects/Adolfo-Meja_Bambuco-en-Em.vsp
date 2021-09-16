@@ -1,0 +1,22 @@
+<video_surgeon_project version="2">
+ <media>
+  <file path="C:/Users/Utilisateur/Masterclass/video-surgeon-2/Projects/Adolfo-Meja_Bambuco-en-Em.vsp"/>
+  <duration units="174674499"/>
+  <info/>
+  <timeline audio_playable="1" loops_created="0" video_locked="0" bookmarks_created="0" video_playable="1" audio_locked="0">
+   <loops>
+    <loop tempo="100" end="428" pitch="0" count="999" volume="100" delay="-1" name="L1" start="0"/>
+   </loops>
+   <markers/>
+  </timeline>
+  <tracks>
+   <track_fragment play_audio="1" repeat="1" play_video="1">
+    <start units="0"/>
+    <end units="174674499"/>
+    <position units="0"/>
+    <track index="1" name="C:\Users\Utilisateur\Video Surgeon 2\Cache\673866746d74484769396c386e6b48464b59773562413d3d.avi" orig_name="C:/Users/Utilisateur/Videos/4K Video Downloader/Play along with partition/Adolfo Mejía Bambuco en Em for Guitar (Score video) (2).mkv"/>
+   </track_fragment>
+  </tracks>
+ </media>
+ <options num_zoom_steps="20" original_fps="29.97" aspect_ratio_x="16" aspect_ratio_y="9" export_temp_dir_path="C:\Users\Utilisateur\Video Surgeon 2\Cache\export\tmp\" num_channels="2" pitch="0" fps="25" original_video_bitrate="340" video_width="1280" original_video_width="1280" audio_sample_rate="44100" audio_bitrate="-1" volume="100" original_video_height="720" original_num_channels="1" video_bitrate="340" max_zoom="16" tempo="100" video_height="720" original_audio_sample_rate="48000" min_zoom="1"/>
+</video_surgeon_project>
